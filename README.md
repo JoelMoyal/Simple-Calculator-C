@@ -1,5 +1,5 @@
 
-# Simple Calculator in C
+# Mad Libs Game
 
 "Create a basic calculator using C that performs addition and subtraction functions. This project serves as a learning exercise in programming."
 
@@ -32,30 +32,34 @@ brew install gcc
 #### Windows
 To compile and run the project on Windows, you can use MinGW, a port of the GNU Compiler Collection (GCC). Here's how you can do it:
 
+1. Download the MinGW installer
+2. Select GCC during installation.
+3. Add MinGW to PATH.
 
-- Download the MinGW installer
-```bash
-gcc --version
-```
 ## Usage
 
 ### Prerequisite 
 - Have C compiler installed 
 
-### How to Run and Build the Project
+#### How to Run and Build the Project:
 #### Option 1 - Terminal
 Steps:
 1. Navigate to the directory of the project 
-2. run the following command to build the project
+
 ```bash
-  gcc -o main main.c
+cd [your_project_directory]
+
+```
+2. Run the following command to build the project
+```bash
+  gcc -o main main.c
 ```
 3. Run the following command to run the project
 ```bash
-  ./main
+  ./main
 ```
 
-####  Option 2 - Program
+####  Option 2 - Program
 
 Steps:
 1. Navigate to the directory of the project
