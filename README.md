@@ -1,5 +1,7 @@
+  Project status: Final.
 
-# Mad Libs Game
+> Technologies Used:  C
+# Simple Calculator in C
 
 "Create a basic calculator using C that performs addition and subtraction functions. This project serves as a learning exercise in programming."
 
